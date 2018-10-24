@@ -5,7 +5,7 @@ Modulo dois do Bootcamp
 Todos os npm usados neste projeto
 
 # Criar projeto:
-npm init -y
+npm init -y <br>
 
 # Dependencias de Desenvolvimento
 npm install -D nodemon
